@@ -1,0 +1,3 @@
+AWSAccountID: '<AWS account id>'
+AWSRegion: 'eu-west-1'
+Prefix: 'deepdive'
